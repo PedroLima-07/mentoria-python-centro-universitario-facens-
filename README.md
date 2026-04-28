@@ -41,7 +41,7 @@ Clique nos links abaixo para navegar diretamente para cada etapa do curso:
 
 ## 💻 O que eu preciso para começar?
 
-Para rodar os códigos deste repositório, você vai precisar de um ambiente de desenvolvimento preparado:
+Antes de escrever a sua primeira linha de código, você precisa preparar o seu "terreno". Nós criamos um módulo especial só para isso:
 
-1. **Python:** Faça o download e instale a versão mais recente [no site oficial](https://www.python.org/downloads/). _(Lembre-se de marcar a caixinha "Add Python to PATH" durante a instalação no Windows!)_.
-2. **Editor de Código (IDE):** Recomendamos fortemente o [Visual Studio Code (VS Code)](https://code.visualstudio.com/), junto com a extensão oficial do Python.
+- **[⚙️ Módulo 00: Configurando o Ambiente](./00-configurando-ambiente/)**
+  - Acesse esta pasta primeiro! Lá você vai encontrar o passo a passo de como instalar o Python, configurar o Visual Studio Code (VS Code) e testar se está tudo funcionando.
