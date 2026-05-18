@@ -10,11 +10,12 @@ Ajudar alunos a desenvolverem lógica de programação utilizando Python, passan
 - Operadores
 - Condicionais
 - Estruturas de repetição
+- Arrays (Listas)
 
 ## 📚 Estrutura do Repositório
 
 O conteúdo está organizado por etapas de aprendizado:
-`01-variaveis/` `02-operadores/` `03-condicionais/` `04-repeticao/`
+`01-variaveis/` `02-operadores/` `03-condicionais/` `04-repeticao/` `05-arrays/`
 
 Cada módulo contém:
 
@@ -29,6 +30,7 @@ Cada módulo contém:
 2. Operadores
 3. Condicionais (`if/elif` e `match-case`)
 4. Repetição (`for`, `while`, simulando `do-while`)
+5. Arrays (Listas)
 
 ## 🔀 Condicionais
 
@@ -44,6 +46,12 @@ Utilizadas para repetir ações:
 - **for** → ideal para percorrer itens ou quando sabemos o número exato de repetições (usando `range()`).
 - **while** → quando a repetição depende de uma condição verdadeira.
 - **while True (com break)** → usado para menus e para garantir que o código execute pelo menos uma vez (simulando o `do-while`).
+
+## 📦 Arrays (Listas)
+
+Utilizados para agrupar dados:
+
+- **Listas** → Em Python, os arrays são chamados de listas. Elas são dinâmicas, não possuem tamanho fixo e são perfeitas para serem percorridas com o laço `for`.
 
 ## 🧪 Como estudar
 
